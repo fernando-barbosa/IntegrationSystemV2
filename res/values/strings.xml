@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application Strings -->
+    <string name="app_name">Integração Stone</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- General Strings -->
+    <string name="image_title">SISTEMA DE INTEGRAÇÃO</string>
+
+    <!-- MainActivity Strings -->
+    <string name="transactionButton">Enviar Transação</string>
+    <string name="cancelationButton">Cancelar Transação</string>
+    <string name="printerButton">Imprimir Transação</string>
+
+    <!-- TransactionActivity Strings -->
+    <string name="transactionLabel">Enviar Transação</string>
+    <string name="valorLabel">Valor</string>
+    <string name="cifraLabel">R$ </string>
+    <string name="parcelaLabel">Tipo de parcelamento</string>
+    <string name="tipoLabel">Forma de pagamento</string>
+    <string name="parcelamentoLabel">Número de parcelas</string>
+    <string name="valueEditText">0,00</string>
+    <string name="debitoRadioButton">1 - Débito</string>
+    <string name="creditoRadioButton">2 - Crédito</string>
+    <string name="aVistaRadioButton">0 - A Vista</string>
+    <string name="parceladoRadioButton">1 - Parcelado</string>
+    <string name="resultButton">Enviar Transação</string>
+    <string name="dialog_title">Atenção!</string>
+
+    <string-array name="pacelamento_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <!-- CancelationActivity Strings -->
+    <string name="cancellationLabel">Cancelamento de Transação</string>
+    <string name="cancellationActivityButton">Cancelar Transação</string>
+    <string name="caLabel">Código da transação (CA)</string>
+    <string name="arnLabel">Numeração da transação (ARN)</string>
+    <string name="title_activity_printer">PrinterActivity</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- PrinterActivity Strings -->
+    <string name="printerLabel">Teste de Impressão</string>
+    <string name="printerActivityButton">Imprimir</string>
+	<string name="informationLabel">Digite o texto para impressão</string>    
+    
+</resources>
